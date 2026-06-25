@@ -54,7 +54,7 @@ Outside of coursework, I spend much of my time reverse engineering malware, rese
 
 # Featured Projects
 
-## ReRange
+## [ReRange](https://github.com/EvanJ4536/ReRange)
 
 Cybersecurity education platform focused on malware analysis, reverse engineering, and practical security training.
 
