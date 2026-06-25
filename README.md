@@ -12,7 +12,7 @@ My Website: [ReRange.org](https://rerange.org)
 
 # About Me
 
-My primary interests include malware analysis, reverse engineering, Windows internals, threat intelligence, and defensive security engineering.
+My primary interests include malware analysis, reverse engineering, threat intelligence, and defensive security engineering.
 
 Outside of coursework, I spend much of my time reverse engineering malware, researching attacker techniques, and building educational security projects. I enjoy understanding software at a low level and using that knowledge to improve defensive capabilities.
 
@@ -73,7 +73,7 @@ Generates unique reverse engineering practice binaries using configurable code t
 
 ---
 
-## Harmony
+## [Harmony](https://github.com/EvanJ4536/Harmony-Discord-RAT)
 
 Educational command-and-control proof of concept developed to study adversary techniques and improve defensive understanding.
 
