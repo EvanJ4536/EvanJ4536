@@ -69,7 +69,7 @@ Cybersecurity education platform focused on malware analysis, reverse engineerin
 
 ## [Forge](https://github.com/EvanJ4536/ReRange-Forge)
 
-Generates unique reverse engineering practice binaries using configurable code transformations and anti-analysis techniques.
+Configurable reverse engineering challenge generator that produces practice binaries using templates and optional code transformations.
 
 ---
 
