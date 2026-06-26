@@ -14,7 +14,7 @@ My Website: [ReRange.org](https://rerange.org)
 
 My primary interests include malware analysis, reverse engineering, threat intelligence, and defensive security engineering.
 
-Outside of coursework, I spend much of my time reverse engineering malware, researching attacker techniques, and building educational security projects. I enjoy understanding software at a low level and using that knowledge to improve defensive capabilities.
+I spend much of my time reverse engineering malware, researching attacker techniques, and building educational security projects. I enjoy understanding software at a low level and using that knowledge to improve defensive capabilities.
 
 ---
 
