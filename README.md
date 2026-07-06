@@ -42,7 +42,6 @@ I spend much of my time reverse engineering malware, researching attacker techni
 ![Ghidra](https://img.shields.io/badge/Ghidra-374151?style=flat-square)
 ![x64dbg](https://img.shields.io/badge/x64dbg-374151?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-374151?style=flat-square&logo=wireshark&logoColor=5CC9F5)
-![YARA](https://img.shields.io/badge/YARA-374151?style=flat-square)
 
 ## 🟢 Platforms
 
