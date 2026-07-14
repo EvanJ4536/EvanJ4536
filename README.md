@@ -86,7 +86,7 @@ Topics explored include:
 
 ---
 
-## Malware Analysis
+## [Malware Analysis](https://rerange.org/knowledge/)
 
 Collection of reverse engineering writeups covering:
 
